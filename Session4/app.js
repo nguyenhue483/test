@@ -204,3 +204,5 @@
 //  console.log(tich);
 // }
 // ex3 ([1,3,5]);
+
+console.log("Hello");
