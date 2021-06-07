@@ -1,0 +1,100 @@
+.cl {
+    display: flex;
+    border-bottom: rgb(214, 82, 214) dashed;
+}
+
+.cl .left1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(214, 82, 214);
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cl .right1 {
+    margin-left: 30px;
+}
+
+.re {
+    display: flex;
+    border-bottom: rgb(214, 82, 214) dashed;   
+}
+
+.re .left2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(214, 82, 214);
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.re .right2 {
+    margin-left: 30px;
+}
+
+.eo {
+    display: flex;
+    border-bottom: rgb(214, 82, 214) dashed;   
+}
+
+.eo .left3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(214, 82, 214);
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eo .right3 {
+    margin-left: 30px;
+}
+
+.ht {
+    display: flex;
+}
+
+.ht .left4 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(214, 82, 214);
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ht .right4 {
+    margin-left: 30px;
+}
+
+
+.compenent {
+    margin-top: 50px;
+    display: flex;
+}
+
+.compenent .left .hwc {
+    width: 500px;
+    height: 300px;
+    background-color: rgb(83, 127, 224);
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.compenent .right {
+    margin-left: 10px;
+}

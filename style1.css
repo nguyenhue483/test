@@ -1,0 +1,31 @@
+.body {
+    margin: 50px;
+}
+
+div, p {
+    margin-top: 10px;
+}
+
+.enter {
+    display: flex;
+}
+
+.email {
+    margin-left: 90px;
+}
+
+.send {
+    display: flex;
+}
+
+.button {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(91, 124, 231);
+    color: white;
+    
+}
+
+.fill {
+    margin-left: 30px;
+}

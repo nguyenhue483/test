@@ -1,0 +1,39 @@
+div {
+    margin-top: 30px;
+}
+
+
+.name {
+    display: flex;
+    height: 30px;
+}
+
+.lastname {
+    margin-left: 50px;
+}
+
+.infor {
+    display: flex;
+    height: 30px;
+}
+
+.phone {
+    margin-left: 50px;
+}
+
+.select {
+    display: flex;
+    height: 30px;
+}
+
+.course {
+    margin-left: 110px;
+}
+
+.submit {
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    width: 420px;
+    height: 40px;
+}
